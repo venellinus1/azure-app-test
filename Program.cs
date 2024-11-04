@@ -1,7 +1,12 @@
+using azure_app_test.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+
+builder.Services.AddSingleton<IKeyVaultSecretService, KeyVaultSecretService>();
+
 
 var app = builder.Build();
 
@@ -19,7 +24,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+app.MapControllers();
 app.MapRazorPages();
 
 app.Run();
