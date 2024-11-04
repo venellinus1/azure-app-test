@@ -1,0 +1,7 @@
+D:\studies\dotnet\azure-app-test\publish\azure-app-test.exe
+D:\studies\dotnet\azure-app-test\publish\appsettings.Development.json
+D:\studies\dotnet\azure-app-test\publish\appsettings.json
+D:\studies\dotnet\azure-app-test\publish\azure-app-test.dll
+D:\studies\dotnet\azure-app-test\publish\azure-app-test.deps.json
+D:\studies\dotnet\azure-app-test\publish\azure-app-test.runtimeconfig.json
+D:\studies\dotnet\azure-app-test\publish\azure-app-test.pdb

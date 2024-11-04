@@ -1,0 +1,12 @@
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\azure-app-test.exe
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\publish\web.config
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\appsettings.Development.json
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\appsettings.json
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\publish\appsettings.Development.json
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\publish\appsettings.json
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\publish\azure-app-test.deps.json
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\publish\azure-app-test.runtimeconfig.json
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\azure-app-test.dll
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\azure-app-test.deps.json
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\azure-app-test.runtimeconfig.json
+D:\studies\dotnet\azure-app-test\bin\Release\net8.0\publish\azure-app-test.pdb
