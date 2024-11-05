@@ -5,8 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 
-builder.Services.AddSingleton<IKeyVaultSecretService, KeyVaultSecretService>();
-
+builder.Services.AddSingleton<IKeyVaultService, KeyVaultService>();
 
 var app = builder.Build();
 

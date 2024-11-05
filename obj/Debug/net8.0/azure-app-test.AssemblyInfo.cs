@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("azure-app-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce46fba29cd5350c68a924843c3f10749e2d212e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cca4838e85f1042e43520675279fbb8d7c52a39")]
 [assembly: System.Reflection.AssemblyProductAttribute("azure-app-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("azure-app-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

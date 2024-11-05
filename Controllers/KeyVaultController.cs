@@ -8,18 +8,19 @@ namespace azure_app_test.Controllers;
 public class KeyVaultController : ControllerBase
 {
     private readonly IConfiguration _configuration;
-    private readonly IKeyVaultSecretService keyVaultSecretService;
 
-    public KeyVaultController(IConfiguration configuration, IKeyVaultSecretService keyVaultSecretService)
+    private readonly IKeyVaultService keyVaultService;
+
+    public KeyVaultController(IConfiguration configuration, IKeyVaultService keyVaultService)
     {
         _configuration = configuration;
-        this.keyVaultSecretService = keyVaultSecretService;
+        this.keyVaultService = keyVaultService;
     }
 
     [HttpGet]
     public IActionResult GetAllConfigurationItems()
     {
-        var response = keyVaultSecretService.GetSecrets();
+        var response = keyVaultService.GetSecrets();
         return Ok(response);
     }
 }
